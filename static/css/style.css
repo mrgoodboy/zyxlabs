@@ -1,0 +1,47 @@
+@import url(http://fonts.googleapis.com/css?family=Sue+Ellen+Francisco);
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: 'Sue Ellen Francisco';
+}
+
+body {
+	background-color: #28276D;
+	margin-left: 200px;
+	margin-right: 200px;
+	text-align: center;
+}
+
+h1 {
+	margin-top: 0.5em;
+	font-size: 5em;
+	color: #F5EE31;
+	color: ;
+}
+
+#message {
+	color: white;
+	font-size: 1.7em;
+}
+
+#send {
+	margin-bottom: 2em;
+}
+
+img {
+	display: block;
+	margin: auto;
+}
+
+a {
+	text-decoration: none;
+	font-size: 1.7em;
+	color: #D11B31;
+}
+
+#submit {
+	font-family: Garamond;
+	font-size: 1em;
+}
