@@ -33,12 +33,13 @@ h1 {
 img {
 	display: block;
 	margin: auto;
+	max-height: 300px;
 }
 
 a {
 	text-decoration: none;
 	font-size: 1.7em;
-	color: #D11B31;
+	color: #FF9999;
 }
 
 #submit {
