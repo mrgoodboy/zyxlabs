@@ -23,11 +23,19 @@ h1 {
 
 #message {
 	color: white;
-	font-size: 1.7em;
+	font-size: 2em;
+}
+
+#message:hover {
+	color: #EE2222;;
 }
 
 #send {
 	margin-bottom: 2em;
+}
+
+#send>a:hover {
+	color: #EE2222;;
 }
 
 img {
